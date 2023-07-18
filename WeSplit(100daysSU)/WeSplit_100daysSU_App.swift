@@ -11,7 +11,7 @@ import SwiftUI
 struct WeSplit_100daysSU_App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Project1()
         }
     }
 }
